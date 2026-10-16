@@ -1,6 +1,3 @@
-Here is the complete, raw markdown code ready to copy and paste directly into your GitHub profile `README.md` file:
-
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammed%20Thanzeel%20K&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Node.js%20%7C%20MongoDB%20%7C%20JavaScript&descAlignY=58&descSize=18" width="100%"/>
