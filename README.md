@@ -66,6 +66,10 @@ const thanzeel = {
 
 ## 📫 Connect with Me
 
----
+<div align="center">
 
-*(Note: If your exact GitHub username is different from `muhammedthanzeel93`, replace that specific text inside the stats and profile view links with your actual username so your metrics render automatically.)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/muhammed-thanzeel-K)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammedthanzeel93-cloud)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muhd._.thanzeel/)
+
+</div>
