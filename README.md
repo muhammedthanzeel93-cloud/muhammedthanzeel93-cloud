@@ -52,18 +52,6 @@ const thanzeel = {
 
 ---
 
-## 📊 GitHub Stats
-
----
-
-## ⚡ Quick Highlights
-
-| ☕ Passionate Learner | 💻 Clean Code Enthusiast | 🚀 Problem Solver | 🌑 Dark Mode Dev |
-| --- | --- | --- | --- |
-| Always leveling up | Readable & maintainable | Debugging with focus | Terminal & IDE default |
-
----
-
 ## 📫 Connect with Me
 
 <div align="center">
