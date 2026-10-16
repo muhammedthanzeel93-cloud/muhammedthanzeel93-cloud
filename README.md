@@ -1,3 +1,6 @@
+Here is the complete, raw markdown code ready to copy and paste directly into your GitHub profile `README.md` file:
+
+```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammed%20Thanzeel%20K&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Node.js%20%7C%20MongoDB%20%7C%20JavaScript&descAlignY=58&descSize=18" width="100%"/>
@@ -28,3 +31,44 @@ const thanzeel = {
   currentFocus: "Building scalable backend architectures & full-stack web solutions",
   funFact     : "Turning complex backend logic into simple web solutions 🚀"
 };
+
+```
+
+---
+
+## 🚀 Featured Projects
+
+| 🗂️ Project | 📝 Description | 🛠️ Stack | 🔗 Links |
+| --- | --- | --- | --- |
+| 📌 **Project Name 1** | *Add a short description of what this project does and key features.* |    | [📦 Repo](https://www.google.com/search?q=%23) · [🌐 Live](https://www.google.com/search?q=%23) |
+| 📌 **Project Name 2** | *Add a short description of what this project does and key features.* |    | [📦 Repo](https://www.google.com/search?q=%23) · [🌐 Live](https://www.google.com/search?q=%23) |
+
+---
+
+**💬 Languages**
+
+**🧩 Frameworks & Libraries**
+
+**🗄️ Database**
+
+**🔧 Tools & Version Control**
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## ⚡ Quick Highlights
+
+| ☕ Passionate Learner | 💻 Clean Code Enthusiast | 🚀 Problem Solver | 🌑 Dark Mode Dev |
+| --- | --- | --- | --- |
+| Always leveling up | Readable & maintainable | Debugging with focus | Terminal & IDE default |
+
+---
+
+## 📫 Connect with Me
+
+---
+
+*(Note: If your exact GitHub username is different from `muhammedthanzeel93`, replace that specific text inside the stats and profile view links with your actual username so your metrics render automatically.)*
